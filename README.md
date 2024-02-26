@@ -3,8 +3,6 @@
 <h3 align="center">A passionate MERN Stack Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhlem&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhlem" /> </p>
-
 - 🔭 I’m currently working on [Medsol](http://medicalsolutionme.com/)
 
 - 🌱 I’m currently Improving In **ReactJS & NodeJS & JavaScript**
