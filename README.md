@@ -63,9 +63,41 @@ code quality and ensuring seamless user experiences.
 
 ### Client Projects
 
-| Project | Description |
-|---------|-------------|
-| Mobile Applications | Cross-platform mobile apps — **React Native Developer (Softigital).** Built mobile applications ensuring consistent user experiences across different devices and screen sizes, collaborating with cross-functional teams across design, backend, and project management. |
+| Project | Description | Links |
+|---------|-------------|-------|
+| Amlak | Real estate marketplace — **Team Lead & Frontend Developer.** Led the frontend team, built property listing and search interfaces, implemented role-based access for agents, owners, and buyers, and integrated map-based property discovery. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://amlakmap.com/) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ezdhar.amlak&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/amlak-app/id6749163958) |
+| El Hadeer | Full-stack multi-country e-commerce platform serving Egypt, Saudi Arabia, and the UAE — **Frontend Developer.** Built the Next.js 16 PWA storefront with Clean Architecture (domain/application/infrastructure/presentation layers), bilingual Arabic/English support with full RTL, multi-currency checkout, and GSAP animations. Also developed the Flutter mobile app for iOS and Android and integrated the Laravel REST API with Sanctum auth, Filament admin panel, and multi-tenant country-scoped data. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://elhadeer.com) |
+| E-Solution PT | Construction & engineering corporate platform — **Full-Stack Developer.** Built the public-facing Next.js 16 corporate site for a Middle East/Africa firm specializing in post-tension and geotechnical solutions. Developed the Express/MongoDB backend API with GridFS file storage and JWT auth, and built the Next.js 15 admin dashboard (TypeScript, MUI, TanStack Query/Table, Tiptap rich text editor) for managing projects, blog, news, equipment, and downloadable resources. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.esolution-pt.com) |
+| MedEx | Healthcare services platform connecting patients with doctors and hospitals in Egypt — **Frontend Developer.** Built the Next.js 15 admin dashboard with MUI, FullCalendar, and role-based portals for Admin, Doctor, and Hospital users. Developed the Expo/React Native mobile app with bilingual Arabic/English RTL support, geolocation-based hospital discovery, approval workflows, installment plans, and real-time push notifications via Pusher. | |
+| Unicare | Health insurance management mobile app — **React Native Developer.** Built the cross-platform Expo/React Native app featuring healthcare provider network browsing across 9 categories, approval submission workflows, consumption tracking, digital insurance ID cards, and full Arabic/English i18n with RTL support and light/dark theming via Styled Components. | |
+| Medsol | Professional medical website — **Frontend Developer.** Built a multi-page healthcare site using Next.js 13 with 8 homepage variations covering different healthcare niches (emergency clinic, dental, vaccination center, doctors directory, and more), appointment booking with date picker, doctor profiles, a blog system, and a functional contact form with SendGrid email delivery. | |
+
+---
+
+## Open Source
+
+**Portfolios**
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| macOS Clone Portfolio | A developer portfolio simulating a macOS desktop environment — built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, GSAP, and Zustand. Features an interactive dock with magnification animation, multi-window management, a Finder for projects, Terminal for skills, Safari for articles, and a Photos gallery, all rendered as draggable OS-style windows. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/os-portfolio) |
+| Three.js 3D Portfolio | An immersive developer portfolio built with React and Three.js — featuring a rotating desktop PC model, floating interactive 3D tech balls with decal textures, an auto-rotating Earth globe, animated star field, scroll-triggered Framer Motion animations, and a functional EmailJS contact form. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/3d-portfolio) |
+| Three.js 3D Island Portfolio | An interactive developer portfolio built with React, Three.js, and React Three Fiber — featuring a fully navigable 3D island scene, animated bird/biplane/fox 3D models, ambient background music, a neo-brutalism UI design system, and automated CI/CD deployment to Azure Static Web Apps via GitHub Actions. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/portfolio) |
+
+**Apps & Dashboards**
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| Cryptoverse Dashboard | A cryptocurrency tracking dashboard built with React — featuring live market data, coin detail pages, global crypto news feed, and interactive price charts. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/cryptoverse) |
+| Bookified | An AI-powered platform that lets you have real-time voice conversations with your books — built with Next.js 16, Vapi, ElevenLabs, MongoDB, and Clerk. Upload PDFs and chat with them verbally via distinct AI voice personas, request smart summaries, and get auto-generated session transcripts, all wrapped in a Shadcn UI with auth and subscription management. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/ai-lms-saas) |
+| AI Resume Checker | An AI-powered tool that analyzes and provides actionable feedback on resumes. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/ai-resume-checker) |
+
+**Mobile**
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| Jobit | A cross-platform React Native job search app built with Expo — connects to the JSearch API via RapidAPI to display popular and nearby jobs, full-text job search with pagination, detailed job views with qualifications and responsibilities tabs, and a one-tap apply flow. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/jobit) |
+| Recurrly | A full-stack subscription management React Native app built with Expo, NativeWind, Node.js/Express, MongoDB, and Clerk — featuring a centralized dashboard to track active and inactive recurring expenses, automated email reminders before billing dates, secure authentication, native tab navigation, and PostHog analytics. | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/YoussefHlem/recurrly) |
 
 ## Education
 
