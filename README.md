@@ -47,21 +47,21 @@ Building scalable SaaS systems, enterprise dashboards, and frontend architecture
 
 ### Company Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| HRM & PFP SaaS Dashboard | Multi-tenant SaaS admin dashboard — **Senior Frontend Developer (Bitech).** Architected from the ground up using Next.js 16, React 19, and TypeScript. Built an advanced data table system with sorting, filtering, column pinning/reordering/resizing, bulk actions, and CSV/XLSX/PDF export. Implemented a SQL-like filter builder with AND/OR group logic and multi-view data presentation (table/board/list). | |
-| GIS Incident Management | Spatial data visualization platform — **Senior Frontend Developer (Bitech).** Integrated ArcGIS and Leaflet for interactive mapping, implementing bi-directional map-table row selection sync and marker/popup systems for incident management across 15+ service modules. | |
-| RBAC & Custom Fields Platform | Enterprise access control system — **Senior Frontend Developer (Bitech).** Implemented Role-Based Access Control, dynamic custom fields injection, duplicate detection & merge workflows, bulk archive/restore operations, and real-time data import pipelines with validation following clean layered architecture (domain, infrastructure, application, presentation). | |
-| Muze Social Platform | Social media platform — **React Developer (Muze).** Developed and integrated a real-time messaging feature using WebSocket technology. Built the Muze Mobile App using React Native for iOS and Android. Implemented Redux for state management in complex application flows. | |
-| E-Commerce & Admin Dashboards | E-commerce platforms and admin dashboards — **React Developer (Softigital).** Developed and maintained multiple client-facing e-commerce platforms using React.js with responsive design and optimized component performance. | |
+| Project | Description |
+|---------|-------------|
+| HRM & PFP SaaS Dashboard | Multi-tenant SaaS admin dashboard — **Senior Frontend Developer (Bitech).** Architected from the ground up using Next.js 16, React 19, and TypeScript. Built an advanced data table system with sorting, filtering, column pinning/reordering/resizing, bulk actions, and CSV/XLSX/PDF export. Implemented a SQL-like filter builder with AND/OR group logic and multi-view data presentation (table/board/list). |
+| GIS Incident Management | Spatial data visualization platform — **Senior Frontend Developer (Bitech).** Integrated ArcGIS and Leaflet for interactive mapping, implementing bi-directional map-table row selection sync and marker/popup systems for incident management across 15+ service modules. |
+| RBAC & Custom Fields Platform | Enterprise access control system — **Senior Frontend Developer (Bitech).** Implemented Role-Based Access Control, dynamic custom fields injection, duplicate detection & merge workflows, bulk archive/restore operations, and real-time data import pipelines with validation following clean layered architecture (domain, infrastructure, application, presentation). |
+| Muze Social Platform | Social media platform — **React Developer (Muze).** Developed and integrated a real-time messaging feature using WebSocket technology. Built the Muze Mobile App using React Native for iOS and Android. Implemented Redux for state management in complex application flows. |
+| E-Commerce & Admin Dashboards | E-commerce platforms and admin dashboards — **React Developer (Softigital).** Developed and maintained multiple client-facing e-commerce platforms using React.js with responsive design and optimized component performance. |
 
 ---
 
 ### Client Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| Mobile Applications | Cross-platform mobile apps — **React Native Developer (Softigital).** Built mobile applications ensuring consistent user experiences across different devices and screen sizes, collaborating with cross-functional teams across design, backend, and project management. | |
+| Project | Description |
+|---------|-------------|
+| Mobile Applications | Cross-platform mobile apps — **React Native Developer (Softigital).** Built mobile applications ensuring consistent user experiences across different devices and screen sizes, collaborating with cross-functional teams across design, backend, and project management. |
 
 ## Education
 
