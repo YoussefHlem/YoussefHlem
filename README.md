@@ -2,7 +2,11 @@
 
 **Senior Frontend Developer** | Egypt | Open to Remote
 
-Building scalable SaaS systems, enterprise dashboards, and frontend architectures for 4+ years. Specialized in React, Next.js, and GIS-integrated web platforms.
+Senior Frontend Developer with 4+ years of expertise building scalable enterprise applications using React and Next.js.
+Specialized in architecting robust web solutions for HRM, PFP, and SaaS platforms with GIS integration capabilities. Proven
+track record in delivering high-performance applications with Test-Driven Development and industry-leading design patterns.
+Passionate about leveraging modern technologies and best practices to solve complex business challenges while maintaining
+code quality and ensuring seamless user experiences.
 
 ## Experience
 
