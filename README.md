@@ -39,8 +39,6 @@ Building scalable SaaS systems, enterprise dashboards, and frontend architecture
 ![Stars](https://img.shields.io/github/stars/YoussefHlem?style=flat&label=Stars)
 ![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-blue)
 
-![Profile Summary](https://raw.githubusercontent.com/YoussefHlem/YoussefHlem/main/profile-summary-card-output/default/0-profile-details.svg)
-
 ## Projects
 
 *Some projects are under NDA. Descriptions focus on technical contributions without disclosing proprietary details.*
